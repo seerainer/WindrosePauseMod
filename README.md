@@ -18,7 +18,7 @@ A pause toggle mod for [Windrose](https://store.steampowered.com/app/3041230/Win
 ## Requirements
 
 - **Windrose** — Steam version (App ID 3041230), Unreal Engine 5.6.1 build
-- **UE4SS** experimental build `UE4SS-43-g265115c0-1777470756` — included in this release
+- **UE4SS** experimental build `UE4SS-43-g06474186-1778329070` — included in this release
 
 ---
 
